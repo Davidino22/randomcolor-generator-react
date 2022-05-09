@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.prvo {
+  height: 50em;
+  width: 100vw;
+  place-items: center;
+  display: grid;
+}
